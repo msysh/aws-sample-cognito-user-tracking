@@ -1,0 +1,33 @@
+form {
+  margin: 1rem;
+  font-size: 1.2rem;
+}
+
+label {
+  display: block;
+  margin: 1rem;
+}
+
+input {
+  border-radius: 0.3rem;
+  margin-left: 1rem;
+  padding: 0.5rem;
+}
+
+p.success {
+  background-color: #eeffee;
+  border: .15rem solid #99cc99;
+  border-radius: 0.4rem;
+  color: #339933;
+  margin: 2rem;
+  padding: 1rem;
+}
+
+p.failure {
+  background-color: #ffeeee;
+  border: .15rem solid #cc9999;
+  border-radius: 0.4rem;
+  color: #993333;
+  margin: 2rem;
+  padding: 1rem;
+}
